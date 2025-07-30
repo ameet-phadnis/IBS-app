@@ -1,0 +1,16 @@
+product-management-workshop-app/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── ScrumBoard.js
+│   │   ├── TeamManagement.js
+│   │   ├── Gamification.js
+│   │   ├── ActivityFeed.js
+│   ├── firebaseConfig.js
+│   ├── App.js
+│   ├── index.js
+│   ├── styles.css
+├── .gitignore
+├── package.json
+├── README.md
