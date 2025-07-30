@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #fafafa;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+button:hover {
+  background-color: #0056b3;
+}
+input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
